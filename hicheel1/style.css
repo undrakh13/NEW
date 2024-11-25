@@ -1,0 +1,80 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: lightpink;
+  flex-direction: column;
+}
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: lightsteelblue;
+  width: 100vw;
+  height: 10vh;
+}
+h1 {
+  font-size: 40px;
+  font-weight: 350px;
+  color: darkcyan;
+}
+a {
+  font-size: 20px;
+  font-weight: 200px;
+  color: darkcyan;
+}
+.hairtsag {
+  width: 20vw;
+  height: 20vh;
+  background-color: rgb(181, 235, 235);
+  border: solid 5px lightyellow;
+  box-shadow:0 5px 10px grey;
+}
+h2 {
+  font-size: 40px;
+  font-weight: 350;
+  color: burlywood;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin: 30px;
+  padding: 60px;
+}
+.hairtsag1 {
+  width: 20vw;
+  height: 20vh;
+  background-color: lightcoral;
+  border: solid 5px lightyellow;
+  box-shadow:0 5px 10px grey;
+}
+.hairtsag2 {
+  width: 20vw;
+  height: 20vh;
+  background-color: lightseagreen;
+  border: solid 5px lightyellow;
+  box-shadow:0 5px 10px grey;
+}
+.hahaha {
+  width: 100vw;
+  height: 75vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.hehehe {
+  width: 100vw;
+  height: 70vh;
+  background-color: lightgrey;
+}
+.footer {
+  width: 100vw;
+  height: 15vh;
+  background-color: lightgoldenrodyellow;
+}
+.hehehe_dotor {
+  width: 80vw;
+  height: 50vh;
+  background-color: lightgreen;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}

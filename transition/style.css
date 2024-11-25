@@ -1,0 +1,17 @@
+.button{
+   width: 10vw;
+   height: 5vh; 
+   background-color: lightskyblue;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border-radius: 20px;
+   box-shadow: 0 5px  10px lightgreen;
+   transition: all 0.3s;
+}
+.button:hover{
+   background-color: lightseagreen;
+   color: azure;
+   box-shadow: 0 5px 10px lightpink;
+   transform: translate X (10px)
+}

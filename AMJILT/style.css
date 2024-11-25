@@ -1,0 +1,199 @@
+.container {
+  background-color: rgb(233, 233, 233);
+  height: 100vh;
+  width: 100vw;
+  
+}
+.header {
+  height: 10vh;
+  width: 100vw;
+  background-color: white;
+  justify-content: space-around;
+  display: flex;
+  align-items: center;
+}
+img {
+  height: 70px;
+  width: 70px;
+  border-radius: 30%;
+  position: absolute;
+  top: 30px;
+  left: 200px;
+}
+h3 {
+  font-size: 20px;
+  font: 1em sans-serif;
+  font-weight: 600;
+}
+h3:hover {
+  color: rgb(159, 62, 168);
+}
+.deedheseg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30vh;
+  width: 100vw;
+  background-color: rgb(243, 243, 243);
+  gap: 10px;
+}
+.bidnii {
+  color: rgb(159, 62, 168);
+  font: 1em sans-serif;
+  font-size: 80px;
+}
+.uilchilgee {
+  color: black;
+  font: 1em sans-serif;
+  font-size: 80px;
+}
+.golheseg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 40vh;
+  width: 100vw;
+  background-color: white;
+}
+p {
+  font: 1em sans-serif;
+  color: rgb(159, 62, 168);
+  font-size: 18px;
+ 
+  right: 45vw;
+  flex-direction: row;
+}
+.manaiturshlagate {
+  color: rgb(159, 62, 168);
+  font-size: 45px;
+}
+.undsengishuud {
+  color: black;
+  font-size: 45px;
+}
+.shape1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20vw;
+  height: 20vh;
+  background-color: rgb(243, 243, 243);
+  border-radius: 15px;
+}
+.shape2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20vw;
+  height: 20vh;
+  background-color: rgb(243, 243, 243);
+  border-radius: 15px;
+}
+.shape3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20vw;
+  height: 20vh;
+  background-color: rgb(243, 243, 243);
+  border-radius: 15px;
+}
+.shapes {
+  display: flex;
+  gap: 30px;
+}
+.hehehe {
+  width: 100vw;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 12px;
+}
+.text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+.sanal {
+  color: rgb(159, 62, 168);
+  font-size: 45px;
+}
+.ilgee {
+  color: black;
+  font-size: 45px;
+}
+
+.input {
+  width: 500px;
+  height: 60px;
+  border-radius: 15px;
+  border-color: rgb(159, 62, 168);
+  border: none;
+}
+.mun {
+  text-align: center;
+}
+
+.input1 {
+  display: flex;
+  gap: 30px;
+  border-radius: 15px;
+  border-color: rgb(159, 62, 168);
+}
+.input2 {
+  display: flex;
+  gap: 30px;
+}
+.input3 {
+  width: 1030px;
+  height: 60px;
+  border-radius: 15px;
+  border: none;
+}
+.input4 {
+  width: 1030px;
+  height: 5vh;
+  background-color: purple;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  border-radius: 15px;
+}
+.all-inputs {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.footer {
+  width: 100vw;
+  height: 30vh;
+  background-color: white;
+  flex-direction: row;
+  display: flex;
+}
+.heseg1 {
+  width: 40vw;
+  height: 30vh;
+  background-color: white;
+}
+.heseg2 {
+  width: 30vw;
+  height: 30vh;
+  display: flex;
+  background-color: white;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.heseg3{
+  width: 30vw;
+  height: 30vh;
+  background-color: white;
+  flex-direction: column;
+  display: flex;
+
+}

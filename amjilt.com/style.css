@@ -1,0 +1,136 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  background-color: #ebedf1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.header {
+  width: 100vw;
+  height: 7vh;
+  background-color: white;
+  display: flex;
+  gap: 60px;
+  align-items: center;
+  font-family: sans-serif;
+  font: 50;
+  padding: 40px;
+  padding-left: 170px;
+}
+
+h1 {
+  font-size: 35px;
+
+  font-family: sans-serif;
+}
+
+.body {
+  width: 80vw;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.body1 {
+  width: 50vw;
+  height: 40vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 20px;
+}
+.click {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.burtguuleh {
+  width: 200px;
+  height: 30px;
+  border: 2px solid #7760c9;
+  border-radius: 20px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #7760c9;
+  font-family: Verdana, sans-serif;
+  font-size: 15px;
+}
+.nevtreh {
+  width: 200px;
+  height: 30px;
+  border-radius: 20px;
+  background-color: #7760c9;
+  border: 2px solid #7760c9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: Verdana, sans-serif;
+  font-size: 15px;
+}
+
+.body2 {
+  width: 50vw;
+  height: 50vh;
+  background-color: white;
+  border-radius: 20px;
+  display: flex;
+  justify-content: flex-start;
+  padding: 60px;
+}
+.text {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.p1:hover {
+  color: #7760c9;
+}
+h5 {
+  color: #7760c9;
+}
+
+.p1:hover {
+  color: #7760c9;
+}
+.p2:hover {
+  color: #7760c9;
+}
+.p3:hover {
+  color: #7760c9;
+}
+.p4:hover {
+  color: #7760c9;
+}
+
+h5:hover {
+  color: black;
+}
+.body1 p {
+  font-size: 20px;
+}
+.body2 p {
+  font-size: 14px;
+  color: darkgrey;
+  font-family: verdana;
+}
+.body3 {
+  width: 100vw;
+  height: 20vh;
+  background-color: #ebedf1;
+  display: flex;
+  gap: 20px;
+}
+.body3 p {
+  height: 20px;
+  border-right: 2px solid darkgrey;
+  gap: 20px;
+}

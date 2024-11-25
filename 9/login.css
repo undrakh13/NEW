@@ -1,0 +1,48 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+  display: flex;
+}
+.login {
+  width: 50vw;
+  height: 100vh;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.login1 {
+  width: 50vw;
+  height: 100vh;
+  background-color: black;
+}
+.box {
+  width: 25vw;
+  height: 70vh;
+  background-color: white;
+  border: 2px solid grey;
+  border-radius: 50px;
+  box-sizing: border-box;
+  padding: 60px;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+input {
+  width: 18vw;
+  height: 3vh;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(226, 226, 226);
+}
+button {
+  width: 18vw;
+  height: 3vh;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(98, 180, 156);
+}
+.button {
+  gap: 60px;
+}

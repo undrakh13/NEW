@@ -1,0 +1,46 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: wheat;
+
+}
+.header{
+    width: 100vw;
+    height: 10vh;
+    background-color: pink;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    gap: 20vw;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#Nuur{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(111, 147, 226);
+}
+#News{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(195, 147, 223);
+}
+#About{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(164, 228, 164);
+}
+#Home{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(223, 224, 130);
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 50px;
+}
+html{
+    scroll-behavior: smooth;
+}

@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 .container {
-  background-color: #ebedf1;
+  background-color: whitesmoke;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -125,7 +125,7 @@ h5:hover {
 .body3 {
   width: 100vw;
   height: 20vh;
-  background-color: #ebedf1;
+  background-color: whitesmoke;
   display: flex;
   gap: 20px;
 }
@@ -133,4 +133,20 @@ h5:hover {
   height: 20px;
   border-right: 2px solid darkgrey;
   gap: 20px;
+}
+h3:hover{
+  color: #7760c9;
+}
+.system{
+  width: 100vw;
+  height: 40vh;
+  background-color:  rgb(240, 240, 240);
+}
+.footer{
+  width: 100vw;
+  height: 8vh;
+  background-color: rgb(17, 22, 39);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
